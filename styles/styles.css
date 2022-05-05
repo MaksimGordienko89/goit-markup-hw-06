@@ -819,6 +819,7 @@ footer {
   fill: var(--main-lite-color);
 }
 .checkbox-link {
+  margin-left: 5px;
   color: var(--accent-color);
 }
 .modal-btn {
